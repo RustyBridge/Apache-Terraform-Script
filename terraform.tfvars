@@ -1,0 +1,1 @@
+profile_d = [{region = "us-east-1", name = "Vasilop_IAM"}]
